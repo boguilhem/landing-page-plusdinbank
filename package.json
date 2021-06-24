@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/boguilhem/landing-page-plusdinbank/issues"
   },
-  "homepage": "https://github.com/boguilhem/landing-page-plusdinbank#readme"
+  "homepage": "https://github.com/boguilhem/landing-page-plusdinbank#readme",
+  "devDependencies": {
+    "sass": "^1.35.1"
+  }
 }

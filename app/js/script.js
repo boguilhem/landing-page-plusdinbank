@@ -1,4 +1,3 @@
-// import "../scss/style.scss";
 
 $(document).ready(() => {
     const btnHamburger = document.querySelector('#btnHamburger');
@@ -30,3 +29,10 @@ $(document).ready(() => {
         }  
       });
 })
+
+// import { format } from "date-fns";
+
+// document.querySelector("#demo-date").textContent = format(
+//   new Date(),
+//   "iiii, MMMM d yyyy"
+// );
